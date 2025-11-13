@@ -1,0 +1,3 @@
+[12-May-2023 14:28:57 Asia/Jakarta] PHP Warning:  Undefined array key "data" in /home1/rsintanh/portal.rsintanhusada.com/pages/export/exportpdf.php on line 3
+[12-May-2023 14:28:57 Asia/Jakarta] PHP Warning:  Undefined array key "unit" in /home1/rsintanh/portal.rsintanhusada.com/pages/export/exportpdf.php on line 4
+[12-May-2023 14:28:57 Asia/Jakarta] PHP Warning:  Undefined variable $status in /home1/rsintanh/portal.rsintanhusada.com/pages/export/exportpdf.php on line 37

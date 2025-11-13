@@ -1,0 +1,56 @@
+[05-Sep-2022 13:45:34 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[05-Sep-2022 13:45:34 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[06-Oct-2022 15:40:20 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[06-Oct-2022 15:40:20 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[13-Dec-2022 15:34:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[13-Dec-2022 15:34:36 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[03-Feb-2023 09:25:40 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[03-Feb-2023 09:25:40 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:37 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:37 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:37 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:38 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:40 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:40 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:40 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:44 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:44 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:44 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:45 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:45 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:45 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[26-Aug-2023 13:04:46 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[26-Aug-2023 13:04:46 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[26-Aug-2023 13:04:46 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[14-Sep-2023 19:25:18 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[14-Sep-2023 19:25:18 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[14-Sep-2023 19:25:18 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[25-Oct-2023 13:46:50 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[25-Oct-2023 13:46:50 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[25-Oct-2023 13:46:50 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[15-Nov-2023 09:29:09 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[15-Nov-2023 09:29:09 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[15-Nov-2023 09:29:09 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[31-Mar-2024 14:21:50 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[31-Mar-2024 14:21:51 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[31-Mar-2024 14:21:51 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29
+[15-Apr-2024 21:56:29 Asia/Jakarta] PHP Warning:  Undefined array key "username" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 7
+[15-Apr-2024 21:56:29 Asia/Jakarta] PHP Warning:  Undefined array key "password" in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 8
+[15-Apr-2024 21:56:29 Asia/Jakarta] PHP Deprecated:  md5(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/rsintanh/portal.rsintanhusada.com/controllers/loginvalidate/index.php on line 29

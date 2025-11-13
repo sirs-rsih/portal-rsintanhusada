@@ -1,0 +1,7 @@
+[04-Jan-2023 10:19:29 Asia/Jakarta] PHP Notice:  Undefined index: unit in /home/rsintanh/portal.rsintanhusada.com/pages/kspbp/detail.php on line 5
+[04-Jan-2023 10:19:29 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/rsintanh/portal.rsintanhusada.com/pages/component/topmenu.php on line 5
+[04-Jan-2023 10:19:29 Asia/Jakarta] PHP Notice:  Undefined index: menu in /home/rsintanh/portal.rsintanhusada.com/pages/kspbp/detail.php on line 71
+[04-Jan-2023 10:19:29 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/rsintanh/portal.rsintanhusada.com/pages/kspbp/detail.php on line 95
+[11-Aug-2023 15:44:50 Asia/Jakarta] PHP Warning:  Undefined array key "nama" in /home1/rsintanh/portal.rsintanhusada.com/pages/component/topmenu.php on line 5
+[05-Jun-2024 07:33:52 Asia/Jakarta] PHP Warning:  Undefined array key "nama" in /home1/rsintanh/portal.rsintanhusada.com/pages/component/topmenu.php on line 5
+[05-Jun-2024 07:33:52 Asia/Jakarta] PHP Warning:  Undefined array key "menu" in /home1/rsintanh/portal.rsintanhusada.com/pages/kspbp/detail.php on line 71
