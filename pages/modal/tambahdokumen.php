@@ -1,3 +1,8 @@
+<?php
+$host = $_SERVER['SCRIPT_NAME'];
+$result = basename(dirname($host));
+?>
+
 <div class="modal fade" id="tambah_dokumen" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -5,10 +10,10 @@
         <button class="close" type="button" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">x</span>
         </button>
-        <h4 class="modal-title" id="judul">TAMBAH <?php echo ($unit); ?> BARU</h4>
+        <h4 class="modal-title" id="judul">TAMBAH DOKUMEN <?php echo ($unit); ?> BARU</h4>
       </div>
       <div class="modal-body">
-        <form action="../controller/upload_dokumen.php?unit=<?php echo ($unit); ?>" method="post" enctype="multipart/form-data">
+        <form action="../controller/upload_dokumen.php?unit=<?php echo ($unit); ?>&host=<?php echo ($result); ?>" method="post" enctype="multipart/form-data">
           <div class="form-group has-feedback">
             <label for="judul">Judul </label>
             <input required type="text" name="judul" class="form-control" placeholder="..." maxlength="255">
