@@ -3,7 +3,11 @@ include('../../config.php');
 include('../helpers/upload_helper.php');
 
 $unit = $_GET['unit'];
-$unit_table = strtolower(str_replace(' ', '', $unit));
+// $unit_table = strtolower(str_replace(' ', '', $unit));
+$unit_table = $_GET['host'];
+// echo '<pre>';
+// var_dump();
+// die;
 $sql = "SHOW TABLES LIKE '$unit_table'";
 $result = mysqli_query($connect, $sql);
 

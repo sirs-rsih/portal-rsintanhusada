@@ -72,7 +72,7 @@ $unit = 'REGULASI NASIONAL';
                         <h1 class="page-header"><?php echo ($unit);
                                                 if (($_SESSION['level'] === '0') or ($_SESSION['level'] === '1')) {
                                                 ?>
-                                <a href="#tambah_dokumen" class="btn btn-sm btn-success pull-right" id="NotID" data-toggle="modal"><i class="fa fa-upload"></i> TAMBAH <?php echo ($unit); ?> BARUH</a>
+                                <a href="#tambah_dokumen" class="btn btn-sm btn-success pull-right" id="NotID" data-toggle="modal"><i class="fa fa-upload"></i> TAMBAH <?php echo ($unit); ?> BARU</a>
                         </h1>
                     <?php
                                                 }

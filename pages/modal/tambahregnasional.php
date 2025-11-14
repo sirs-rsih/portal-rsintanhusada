@@ -5,10 +5,10 @@
                 <button class="close" type="button" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">x</span>
                 </button>
-                <h4 class="modal-title" id="judul">REGULASI NASIONAL BARU</h4>
+                <h4 class="modal-title" id="judul">TAMBAH </h4>
             </div>
             <div class="modal-body">
-                <form action="../controller/vregnasional.php?unit=<?php echo($unit);?>" method="post" enctype="multipart/form-data">
+                <form action="../controller/upload_dokumen.php?unit=<?php echo ($unit); ?>" method="post" enctype="multipart/form-data">
                     <div class="form-group has-feedback">
                         <label for="judul">Judul </label>
                         <input required type="text" name="judul" class="form-control" placeholder="..." maxlength="255">
@@ -17,7 +17,7 @@
 
                     <div class="form-group has-feedback">
                         <label for="deskripsi">Deskripsi</label>
-                        <textarea required type="text" name="deskripsi" class="form-control" placeholder="..." rows="3" maxlength="255"></textarea> 
+                        <textarea required type="text" name="deskripsi" class="form-control" placeholder="..." rows="3" maxlength="255"></textarea>
                         <!-- <span class="glyphicon glyphicon-user form-control-feedback"></span> -->
                     </div>
 
@@ -30,8 +30,8 @@
 
             </div>
             <div class="modal-footer">
-                    <button class="btn btn-success" type="submit">Upload Berkas</button>
-                    <button class="btn btn-default" type="reset">Reset</button>
+                <button class="btn btn-success" type="submit">Upload Berkas</button>
+                <button class="btn btn-default" type="reset">Reset</button>
                 </form>
             </div>
         </div>
